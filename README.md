@@ -1,6 +1,19 @@
 # 💫 About Me:
 Hello, I'm Paddy.<br><br>I'm a student at RGS Guildford and I like coding in javascript (vue) as well as python.<br>I like tinkering with linux and the raspberry and would like to make a proper homelab/server when I have a bigger budget.<br>I enjoy various sports such as ruby, hockey, cricket, tennis and badminton.<br>I also enjoy playing Valorant and Pokemon with friends.<br>
 
+## 🌠 My Projects:
+####  [Rideshare](https://github.com/PaddyCooper08/rideshare) 🚗, Uber style app created for a school competitition to encourage ridesharing. I wrote the code while my friend did design work in figma. My first proper website that I did with no youtube tutorials.
+
+#### [Zygote](https://github.com/PaddyCooper08/Zygote-discord.py) 🤖, One of my first ever projects -  a catch-all discord bot which started as an rpg but expanded into a music and moderation bot. This was when I wasa very new to coding and it is down very badly but it works.
+
+#### [Recycling-Identifier](https://github.com/PaddyCooper08/recycling-identifier) ♻, The last python project I worked on. I made this for a raspberry pi competition in the UK and won a raspberry pi pico! This was my first crack at machine learning and could identify the triangles on plastic to tell you if it was recycable or not.
+
+#### [Security Camera](https://github.com/PaddyCooper08/SecurityCam) 📸, A Python machine learning security camera that was a tutorial at first but then I expanded it with new methods of notifiying me through email and ifttt.
+
+#### [Block Party](https://github.com/PaddyCooper08/Block-party) 🎶, My last project in tutorial hell before I took a break from coding and came back better and without tutorials.
+
+
+
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Paddyxl) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15343843) 
