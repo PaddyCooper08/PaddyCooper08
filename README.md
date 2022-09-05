@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Paddy.<br><br>I'm a student in the UK and I like coding in javascript (vue) as well as python.<br>I like tinkering with linux and the raspberry and would like to make a proper homelab/server when I have a bigger budget.<br>I enjoy various sports such as rugby, hockey, cricket, tennis and badminton.<br>I also enjoy playing Valorant and Pokemon with friends.<br>
+Hello, I'm Paddy.<br><br>I'm a student in the UK and I like coding in javascript (vue) as well as python.<br>I like tinkering with linux and the raspberry pi and would like to make a proper homelab/server when I have a bigger budget.<br>I enjoy various sports such as rugby, hockey, cricket, tennis and badminton.<br>I also enjoy playing Valorant and Pokemon with friends.<br>
 
 ## 🌠 My Projects:
 ####  [Rideshare](https://github.com/PaddyCooper08/rideshare) 🚗, Uber style app created for a school competitition to encourage ridesharing. I wrote the code while my friend did design work in figma. My first proper website that I did with no youtube tutorials.
