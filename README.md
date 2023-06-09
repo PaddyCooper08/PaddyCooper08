@@ -27,7 +27,7 @@ Hello, I'm Paddy.<br><br>I'm a student in the UK and I like coding in javascript
 # 💸 My Gear:
 🍓 I started to code on a [Raspberry pi 3b](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/) \
 📈 I then got a [Surface Go 2](https://www.microsoft.com/en-gb/d/surface-go-2/8PT3S2VJMDR6) \
-🌟 I'm now using an old [HP Elitebook 840 g3](https://support.hp.com/gb-en/document/c05259054) dual booting zorinos and windows (I now code on linux) 
+🌟 I'm now using an old [HP Elitebook 840 g3](https://support.hp.com/gb-en/document/c05259054) dual booting archcraft and a fork of chromeos (I now code on linux) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PaddyCooper08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PaddyCooper08&theme=dark&hide_border=false)<br/>
