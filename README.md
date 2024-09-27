@@ -12,7 +12,7 @@
 
 #### [Security Camera](https://github.com/PaddyCooper08/SecurityCam) 📸, A Python machine learning security camera that was a tutorial at first but then I expanded it with new methods of notifiying me through email and ifttt.
 
-#### [Block Party](https://github.com/PaddyCooper08/Block-party) 🎶, My last project in tutorial hell before I took a break from coding and came back better and without tutorials.
+#### [Block Party](https://github.com/PaddyCooper08/Block-party) 🎶, My last project before I took a break from coding .
 
 #### [Flappy AI](https://github.com/PaddyCooper08/FlappyAi) 🐔, The project that got me into machine learning. Flappy bird created with pygame but with a NEAT algorithm teaching the game how to play itself.
 
