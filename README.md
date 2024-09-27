@@ -8,7 +8,7 @@
 
 #### [Zygote](https://github.com/PaddyCooper08/Zygote-discord.py) 🤖, One of my first ever projects -  a catch-all discord bot which started as an rpg but expanded into a music and moderation bot. This was when I was very new to coding and it is done very badly but it works.
 
-#### [Recycling-Identifier](https://github.com/PaddyCooper08/recycling-identifier) ♻, The last python project I worked on. I made this for a raspberry pi competition in the UK and won a raspberry pi pico! This was my first crack at machine learning and could identify the triangles on plastic to tell you if it was recycable or not.
+#### [Recycling-Identifier](https://github.com/PaddyCooper08/recycling-identifier) ♻, The last python project I worked on. I made this for a raspberry pi competition in the UK and won a raspberry pi pico! This was my first crack at machine learning and could identify the triangles on plastic to tell you if it was recyclable or not.
 
 #### [Security Camera](https://github.com/PaddyCooper08/SecurityCam) 📸, A Python machine learning security camera that was a tutorial at first but then I expanded it with new methods of notifiying me through email and ifttt.
 
